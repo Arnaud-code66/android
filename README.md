@@ -16,7 +16,7 @@ Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pou
 
 •	android.permission.INTERNET,
 
-•	android.permission.WRITE_EXTERNAL_STORAGE.
+•	android.permission.REQUEST_INSTALL_PACKAGES.
 
 Les informations que nous demandons sont conservées sur votre appareil et ne sont en aucun cas collectées par nous. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.
 
