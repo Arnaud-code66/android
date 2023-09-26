@@ -22,8 +22,9 @@ Les informations que nous demandons sont conservées sur votre appareil et ne so
 
 Lien vers la politique de confidentialité des prestataires de services tiers utilisés par l'application
 
-•	Services Google Play
-•	Analyse Firebase
+•	Services Google Play https://www.google.com/policies/privacy/
+
+•	Analyse Firebase  https://policies.google.com/privacy
 
 
 ## Combien de temps vos informations personnelles seront conservées
