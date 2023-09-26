@@ -14,7 +14,7 @@ Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pou
 
 •	android.permission.CAMERA,
 
-•	android.permission.WRITE_SETTINGS,
+•	android.permission.INTERNET,
 
 •	android.permission.WRITE_EXTERNAL_STORAGE.
 
@@ -23,7 +23,6 @@ Les informations que nous demandons sont conservées sur votre appareil et ne so
 Lien vers la politique de confidentialité des prestataires de services tiers utilisés par l'application
 
 •	Services Google Play
-•	AdMob
 •	Analyse Firebase
 
 
