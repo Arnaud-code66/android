@@ -10,13 +10,21 @@ Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilis
 
 Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter,
 
-•	android.permission.WAKE_LOCK,
+•	android.permission.ACCESS_NETWORK_STATE,
 
-•	android.permission.CAMERA,
+•	android.permission.CAMERA, android.permission.FLASHLIGHT,
 
 •	android.permission.INTERNET,
 
-•	android.permission.REQUEST_INSTALL_PACKAGES.
+•	android.permission.READ_EXTERNAL_STORAGE,
+
+•	android.permission.VIBRATE,
+
+•	android.permission.WAKE_LOCK,
+
+•	com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,
+
+•	com.google.android.gms.permission.AD_ID
 
 Les informations que nous demandons sont conservées sur votre appareil et ne sont en aucun cas collectées par nous. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.
 
